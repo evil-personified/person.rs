@@ -1,0 +1,13 @@
+[package]
+name = "person"
+description = "Random identity generator for Rust"
+repository = "https://github.com/evil-personified/person.rs"
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+keywords = ["identity", "random", "rand", "person", "unique", "email"]
+
+[dependencies]
+chrono = "0.4.38"
+rand = "0.8.5"
