@@ -6,7 +6,7 @@ license = "MIT OR Apache-2.0"
 version = "0.1.0"
 edition = "2021"
 readme = "README.md"
-keywords = ["identity", "random", "rand", "person", "unique", "email"]
+keywords = ["identity", "random", "name", "person", "generator"]
 
 [dependencies]
 chrono = "0.4.38"
